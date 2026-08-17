@@ -1,0 +1,11 @@
+# Compiled binaries
+app
+sizes
+
+# Build intermediates
+*.o
+*.i
+*.s
+
+# Local tool settings
+**/.claude/settings.local.json
